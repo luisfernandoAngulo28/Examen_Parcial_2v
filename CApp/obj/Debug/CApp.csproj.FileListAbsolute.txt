@@ -1,0 +1,7 @@
+E:\EDI\ED v1\ExamenListadeLista\CApp\bin\Debug\CApp.exe.config
+E:\EDI\ED v1\ExamenListadeLista\CApp\bin\Debug\CApp.exe
+E:\EDI\ED v1\ExamenListadeLista\CApp\bin\Debug\CApp.pdb
+E:\EDI\ED v1\ExamenListadeLista\CApp\obj\Debug\CApp.csprojAssemblyReference.cache
+E:\EDI\ED v1\ExamenListadeLista\CApp\obj\Debug\CApp.csproj.CoreCompileInputs.cache
+E:\EDI\ED v1\ExamenListadeLista\CApp\obj\Debug\CApp.exe
+E:\EDI\ED v1\ExamenListadeLista\CApp\obj\Debug\CApp.pdb
